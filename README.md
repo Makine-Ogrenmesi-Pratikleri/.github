@@ -1,1 +1,1 @@
-# Makine Öğrenmesi Pratikleri Organizasyon Sayfasına Hoşgeldiniz!
+# Makine Öğrenmesi Pratikleri Organizasyon Sayfası Profil Deposu
