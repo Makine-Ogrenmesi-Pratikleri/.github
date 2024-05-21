@@ -1,0 +1,1 @@
+# Makine Öğrenmesi Pratikleri Organizasyonu
